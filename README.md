@@ -21,7 +21,7 @@ Key Metrics
 - Total Purchase Amount: $233K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
-- 
+  
 Insights Gained
 
 Customer Demographics:
