@@ -1,11 +1,11 @@
 # PowerBI1
 Power BI project for Atom Camp
 
-Unlocking Insights with Data: My Power BI Dashboard Project
+# Unlocking Insights with Data: My Power BI Dashboard Project
 
 Transforming data into actionable insights is a rewarding process. In my latest project, I designed a Power BI dashboard to analyze customer shopping trends, uncovering insights that businesses can use to drive strategy.
 
-Data Preparation
+# Data Preparation
 
 Using Power Query, I transformed raw data into a structured format by:
 
@@ -17,14 +17,14 @@ Using Power Query, I transformed raw data into a structured format by:
 
 - Converting review ratings from text to decimals for quantitative insights.
 
-Key Metrics
+# Key Metrics
 - Total Purchase Amount: $233K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
   
-Insights Gained
+# Insights Gained
 
-Customer Demographics:
+## Customer Demographics:
 
 - Visualized age distribution and identified the most loyal and high-value customers by age group.
 
@@ -36,11 +36,12 @@ Product & Seasonal Trends:
 
 - Analyzed seasonal spending patterns to identify peak shopping times.
 
-Geographical Insights:
+## Geographical Insights:
 
 - Mapped customer locations to compare purchase amounts across regions.
 
 - Analyzed the popularity of shipping types to optimize logistics.
 
+## 
 
 This project reinforced my expertise in Power BI and taught me the value of turning data into meaningful business strategies.
