@@ -1,4 +1,4 @@
-# Customer Analysis PowerBI1
+# Customer Analysis PowerBI
 
 # Unlocking Insights with Data: My Power BI Dashboard Project
 
