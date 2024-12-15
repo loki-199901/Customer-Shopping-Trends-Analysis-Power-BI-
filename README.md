@@ -1,5 +1,4 @@
-# PowerBI1
-Power BI project for Atom Camp
+# Customer Analysis PowerBI1
 
 # Unlocking Insights with Data: My Power BI Dashboard Project
 
